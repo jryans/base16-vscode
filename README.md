@@ -1,3 +1,7 @@
+# Fork
+
+This is a temporary fork of https://github.com/AndrsDC/base16-vscode to restore the [Dark Tomorrow theme](https://github.com/AndrsDC/base16-vscode/issues/6).
+
 # Base 16 Themes
 This is a port of the [Base 16 themes](https://github.com/chriskempson/base16-textmate) for TextMate/Sublime.
 
